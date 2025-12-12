@@ -39,7 +39,7 @@ A Microsoft 365 Group named **Sales Team** was created to establish a collaborat
 
 The Microsoft 365 Group **Sales Team** automatically provisioned a connected SharePoint site, enabling shared file storage and document collaboration for its members. By assigning **John Smith** as a member of this group, the user inherited access to the Sales Team SharePoint site without requiring direct permission assignments. The group was later enabled for Microsoft Teams, allowing channel-based collaboration and communication while continuing to manage access through group membership.
 
-![Step 3 – SharePoint and Teams Access](screenshots/step04_sharepoint_teams_access.png)
+![Step 3 – SharePoint and Teams Access](screenshots/step03_sharepoint_teams_access.png)
 
 ---
 
@@ -47,7 +47,7 @@ The Microsoft 365 Group **Sales Team** automatically provisioned a connected Sha
 
 To enforce secure authentication practices and protect organizational resources, a Conditional Access policy was implemented for the user account **John Smith**. The policy requires multi-factor authentication for all sign-in attempts while excluding administrative and break-glass accounts from enforcement. The policy was scoped to all cloud applications to ensure MFA enforcement across Microsoft 365 sign-in flows, aligning with modern security best practices.
 
-![Step 4 – Conditional Access Policy](screenshots/step03_conditional_access_mfa.png)
+![Step 4 – Conditional Access Policy](screenshots/step04_conditional_access_mfa.png)
 
 ---
 
