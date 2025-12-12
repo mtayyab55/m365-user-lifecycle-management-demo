@@ -45,7 +45,7 @@ The Microsoft 365 Group **Sales Team** automatically provisioned a connected Sha
 
 ## Step 4: Configure Conditional Access and MFA Requirements
 
-To enforce secure authentication practices and protect organizational resources, a Conditional Access policy was implemented for the user account **John Smith**. The policy requires multi-factor authentication for all sign-in attempts while excluding administrative and break-glass accounts from enforcement. The policy was scoped to all cloud applications to ensure MFA enforcement across Microsoft 365 sign-in flows, aligning with modern security best practices.
+To enforce secure authentication practices and protect organizational resources, a Conditional Access policy was implemented for the user account John Smith. The policy requires multi-factor authentication (MFA) for sign-in attempts while excluding administrative and break-glass accounts from enforcement. This configuration ensures that John Smith is subject to modern authentication controls and aligns with standard security guidelines used in Microsoft 365 environments. Once enabled, the policy validates that MFA prompts are triggered during user authentication
 
 ![Step 4 – Conditional Access Policy](screenshots/step04_conditional_access_mfa.png)
 
