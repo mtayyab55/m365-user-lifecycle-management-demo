@@ -39,7 +39,7 @@ A Microsoft 365 Group named **Sales Team** was created to establish a collaborat
 
 The Microsoft 365 Group **Sales Team** automatically provisioned a connected SharePoint site, enabling shared file storage and document collaboration for its members. By assigning **John Smith** as a member of this group, the user inherited access to the Sales Team SharePoint site without requiring direct permission assignments. The group was later enabled for Microsoft Teams, allowing channel-based collaboration and communication while continuing to manage access through group membership.
 
-![Step 3 – SharePoint and Teams Access](screenshots/step03_sharepoint_teams_access.png)
+![Step 3 – SharePoint and Teams Access](screenshots/step03_sharepoint_access_overview.png)
 
 ---
 
